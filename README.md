@@ -94,9 +94,4 @@ Faculty and instructors
 
 Process design beginners
 
-Interview and viva preparation
 
-
-prepare viva questions & answers for McCabe–Thiele
-
-Just say the word 🙂
